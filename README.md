@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **exciting new projects!**
 
-- 💬 Ask me about **betaflight, drones, or bash scripts ;)**
+- 💬 Ask me about **ham, drones, or bash scripts ;)**
 
 - 📫 How to reach me **josh@somber.dev**
 
