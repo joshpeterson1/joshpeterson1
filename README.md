@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BE%2C+I'm+Josh...;Tech+Enthusiast+%F0%9F%92%BB;Drone+Pilot++%E2%9C%88%EF%B8%8F;HAM+Radio+Operator+%F0%9F%93%BB;Music+Nerd++%F0%9F%8E%B8" alt="Typing SVG" /></a></h1>
 
-- 🔭 I’m a big amateur radio enthusiast and I like to throw things together in my free time!**
+- 🔭 I’m a big amateur radio enthusiast and I like to throw things together in my free time!
 
 - 👯 Check out a few of the **exciting projects I've been working on: [Logger](https://kk7qas.us/), [Utah Repeater Map](https://repeaters.somber.dev/)**
 
