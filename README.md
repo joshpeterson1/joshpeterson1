@@ -3,7 +3,7 @@
 
 - 🔭 I’m a big amateur radio enthusiast and I like to throw things together in my free time!**
 
-- 👯 Check out a few of the **exciting new projects I've been working on: [Logger](https://kk7qas.us/), [Utah Repeater Map](https://repeaters.somber.dev/)**
+- 👯 Check out a few of the **exciting projects I've been working on: [Logger](https://kk7qas.us/), [Utah Repeater Map](https://repeaters.somber.dev/)**
 
 - 💬 Ask me about **amateur radio, drones, or scripting ;)**
 
